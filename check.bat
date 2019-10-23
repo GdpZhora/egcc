@@ -1,0 +1,1 @@
+c:\sonarqube\sonar-scanner\bin\sonar-scanner.bat -D"sonar.login=ce7cf1389d105c33458b3572a668d892a4bee0fd"
