@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+sonar-project.properties
+check.bat
+
+.scannerwork/
